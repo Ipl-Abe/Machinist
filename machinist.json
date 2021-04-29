@@ -1,0 +1,7 @@
+
+// copy this file to $HOME/.API_KEYS/
+{
+    "keys" : {
+        "API_KEY" : "your_API_KEY"
+    }
+}
